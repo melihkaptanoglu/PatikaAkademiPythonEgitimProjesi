@@ -17,6 +17,7 @@ output_1 = flatten_list(sample_list_1)
 print(output_1)
 
 
+#Question2
 
 sample_list_2 = [[1, 2], [3, 4], [5, 6, 7]]
 
